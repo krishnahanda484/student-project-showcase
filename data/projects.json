@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1789739472070",
+    "title": "SalaryCalc",
+    "description": "Calculate salary",
+    "techStack": [
+      "CSS"
+    ],
+    "githubLink": "https://github.com/krishnahanda484"
+  },
+  {
+    "id": "1710000000001",
+    "title": "Quiet Hours",
+    "description": "A gentle focus timer that turns the day's noisy edges into a small, private room for making.",
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "githubLink": "https://github.com/"
+  },
+  {
+    "id": "1710000000002",
+    "title": "Field Notes for Rain",
+    "description": "A pocket-sized weather journal for noticing the patterns hidden inside ordinary walks.",
+    "techStack": [
+      "JavaScript",
+      "API",
+      "CSS"
+    ],
+    "githubLink": "https://github.com/"
+  },
+  {
+    "id": "1710000000003",
+    "title": "The Common Table",
+    "description": "A neighborhood recipe exchange that treats cooking as a way to remember who lives nearby.",
+    "techStack": [
+      "Node.js",
+      "Express",
+      "JSON"
+    ],
+    "githubLink": "https://github.com/"
+  }
+]

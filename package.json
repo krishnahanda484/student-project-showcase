@@ -1,0 +1,14 @@
+{
+  "name": "@workspace/student-project-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An editorial gallery for student-built projects.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "mkdir -p dist/public && cp -R public/. dist/public/"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
