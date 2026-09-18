@@ -2,6 +2,8 @@
 
 Open Desk is a small, editorial-style gallery for student projects. It uses plain HTML, CSS, and browser JavaScript with a tiny Node and Express server. There are no frontend frameworks.
 
+LIVE LINK - https://student-project-showcase.vercel.app/#/
+
 ## Run the project
 
 ```bash
